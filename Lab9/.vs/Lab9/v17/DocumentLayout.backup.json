@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 9\\Lab9\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8870B4A-8A61-40FA-A29E-BDF86EE4EFD3}|Lab9\\Lab9.csproj|c:\\users\\rage\\desktop\\\u044F\u043F\\lab 9\\lab9\\lab9\\lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8870B4A-8A61-40FA-A29E-BDF86EE4EFD3}|Lab9\\Lab9.csproj|solutionrelative:lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8870B4A-8A61-40FA-A29E-BDF86EE4EFD3}|Lab9\\Lab9.csproj|c:\\users\\rage\\desktop\\\u044F\u043F\\lab 9\\lab9\\lab9\\lab9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8870B4A-8A61-40FA-A29E-BDF86EE4EFD3}|Lab9\\Lab9.csproj|solutionrelative:lab9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8870B4A-8A61-40FA-A29E-BDF86EE4EFD3}|Lab9\\Lab9.csproj|c:\\users\\rage\\desktop\\\u044F\u043F\\lab 9\\lab9\\lab9\\lab9\\linesegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8870B4A-8A61-40FA-A29E-BDF86EE4EFD3}|Lab9\\Lab9.csproj|solutionrelative:lab9\\linesegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LineSegment.cs",
+              "DocumentMoniker": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 9\\Lab9\\Lab9\\Lab9\\LineSegment.cs",
+              "RelativeDocumentMoniker": "Lab9\\LineSegment.cs",
+              "ToolTip": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 9\\Lab9\\Lab9\\Lab9\\LineSegment.cs",
+              "RelativeToolTip": "Lab9\\LineSegment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T04:43:47.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 9\\Lab9\\Lab9\\Lab9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab9\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 9\\Lab9\\Lab9\\Lab9\\MainWindow.xaml",
+              "RelativeToolTip": "Lab9\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T04:41:07.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 9\\Lab9\\Lab9\\Lab9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab9\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 9\\Lab9\\Lab9\\Lab9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab9\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T04:41:06.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
