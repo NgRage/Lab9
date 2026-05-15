@@ -34,7 +34,7 @@ private, доступ к ним осуществляется через публ
 Добавлена проверка на инициализацию объекта: операции не выполняются, пока
 пользователь не нажмет кнопку «Создать отрезок».
 ### Тестирование
-<img width="634" height="491" alt="SC1" src="https://github.com/user-attachments/assets/5e836507-d0b7-4547-a906-d708386cf753" />
+<img width="637" height="488" alt="SC1" src="https://github.com/user-attachments/assets/670b6903-d0c7-4777-8c00-7e158a8e2dcd" />
 
 
 
